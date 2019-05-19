@@ -1,6 +1,6 @@
 # Compression Score
 
-**Related link: [Codes for GAN-MC](https://github.com/RuishanLiu/GAN-MC)**
+**Related link: [Codes for GAN-MC](https://github.com/RuishanLiu/GAN-TSC)**
 
 Codes to compute Compression Score in Paper [Model Compression with Generative Adversarial Networks](https://arxiv.org/pdf/1812.02271.pdf).
 
